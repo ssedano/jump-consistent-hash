@@ -22,7 +22,7 @@ Add the dependency to your pom.xml
     <dependency>
         <groupId>com.github.ssedano</groupId>
         <artifactId>jump-consistent-hash</artifactId>
-        <version>0.1.0</version>
+        <version>1.0.0</version>
     </dependency>
 
 Or download the `jar` from [Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cjump-consistent-hash) and add it to your classpath.
