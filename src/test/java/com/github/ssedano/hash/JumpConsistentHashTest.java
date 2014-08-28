@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
  */
-package org.ssedano.hash;
+package com.github.ssedano.hash;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -25,6 +25,8 @@ import java.util.TreeMap;
 import java.util.concurrent.ThreadLocalRandom;
 
 import org.junit.Test;
+
+import com.github.ssedano.hash.JumpConsistentHash;
 
 /**
  * @author <a href="mailto:serafin.sedano@gmail.com">Serafin Sedano</a>

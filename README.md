@@ -20,7 +20,7 @@ more suitable for data storage applications than for distributed web caching.
 Add the dependency to your pom.xml
 
     <dependency>
-        <groupId>org.ssedano</groupId>
+        <groupId>com.github.ssedano</groupId>
         <artifactId>jump-consistent-hash</artifactId>
         <version>0.1.0</version>
     </dependency>

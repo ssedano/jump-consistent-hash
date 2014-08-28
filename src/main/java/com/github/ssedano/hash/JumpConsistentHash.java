@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
  */
-package org.ssedano.hash;
+package com.github.ssedano.hash;
 
 /**
  * {@link #jumpConsistentHash(long, int)} accepts "a 64-bit key and the number
@@ -48,7 +48,7 @@ public final class JumpConsistentHash {
 
     private JumpConsistentHash() {
 	throw new AssertionError(
-		"No org.ssedano.hash.JumpConsistentHash instances for you!");
+		"No com.github.ssedano.hash.JumpConsistentHash instances for you!");
     }
 
     /**
